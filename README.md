@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/D5616AQGgWO0U0nQw-A/profile-displaybackgroundimage-shrink_350_1400/0/1705037687883?e=1710374400&v=beta&t=yz3IM2ZJgtFj2_Ruh3RiYmhri3UtK0dJRyJpDU9NhD0">
 <h1 align="center">Hi 👋, I'm shaivali</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
