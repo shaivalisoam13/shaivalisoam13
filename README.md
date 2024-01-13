@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGgWO0U0nQw-A/profile-displaybackgroundimage-shrink_350_1400/0/1705037687883?e=1710374400&v=beta&t=yz3IM2ZJgtFj2_Ruh3RiYmhri3UtK0dJRyJpDU9NhD0">
 <h1 align="center">Hi 👋, I'm shaivali</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img  alt ="sql server" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdbeaver%2Fdbeaver%2Fissues%2F2973&psig=AOvVaw3xCdSNkybZzjSrvlIUwaCV&ust=1705208030054000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCODB74vJ2YMDFQAAAAAdAAAAABAH">
+<img  alt ="sql server" width="400" align="right" src="https://miro.medium.com/v2/resize:fit:679/1*b1bX-G-cxPkQcDddaxcl8Q.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaivalisoam13&label=Profile%20views&color=0e75b6&style=flat" alt="shaivalisoam13" /> </p>
 
 - 🔭 I’m currently working on **Vrinda sales store 2022**
